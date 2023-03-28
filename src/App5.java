@@ -14,6 +14,9 @@ public class App5 {
         switch(a) {
             case 1:
                 System.out.println("to jest 1");
+                if(a > 5) {
+                    System.out.println("asdgsdfg");
+                }
                 break;
             case 2:
             case 3:
